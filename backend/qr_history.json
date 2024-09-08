@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.youtube.com/",
+    "color": "#084c93",
+    "qrCodeUrl": "https://media.qrtiger.com/uploads/staticQR/f3kxs-1725785358109.png",
+    "userId": 1
+  },
+  {
+    "url": "https://www.facebook.com/",
+    "color": "#ff0004",
+    "qrCodeUrl": "https://media.qrtiger.com/uploads/staticQR/qbt28-1725785927308.png",
+    "userId": 2
+  }
+]
